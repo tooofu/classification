@@ -1,0 +1,3 @@
+### requirements
+
+gensim, tensorflow, numpy
